@@ -1,7 +1,4 @@
-<h1 align="center"> GITHUB PORTUGAL </h1>
-
-
----
+# 🇵🇹 GitHub Portugal
 
 ## 👋 Bem Vindo
 
@@ -12,8 +9,6 @@ Nosso espaço é dedicado a ajudar programadores de todos os níveis a aprimorar
 Juntos, vamos explorar novas tecnologias, resolver desafios complexos e construir um ecossistema de programação vibrante em Portugal. Fique à vontade para compartilhar suas ideias, aprender e crescer conosco.
 
 Junte-se às discussões, compartilhe seus projetos e vamos trabalhar juntos para fortalecer nossa comunidade de desenvolvedores em Portugal. Seja bem-vindo ao GitHub Portugal, onde a inovação acontece todos os dias!
-
----
 
 ## 📝 Código Aberto
 
@@ -26,8 +21,6 @@ No entanto, a nossa lista está em constante evolução, e sabemos que há muito
 Para aqueles que desejam iniciar a sua jornada no mundo do Código Aberto ou mantenedores experientes em busca de maneiras de fortalecer as suas comunidades, oferecemos recursos abrangentes. Consulte o nosso Guia de Código Aberto, repleto de informações sobre como iniciar um projeto de Código Aberto, construir comunidades colaborativas, adotar melhores práticas de manutenção de projetos e muito mais.
 
 Juntos, estamos a fortalecer o Código Aberto em Portugal e a contribuir para uma comunidade global de desenvolvimento de software mais robusta e diversificada. Junte-se a nós nesta jornada emocionante!
-
----
 
 ## ⚠️ Avisos
 
