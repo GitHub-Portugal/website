@@ -14,9 +14,9 @@ Junte-se às discussões, compartilhe seus projetos e vamos trabalhar juntos par
 
 Nos últimos anos, temos assistido a um notável aumento do envolvimento no Movimento de Código Aberto em Portugal. Cada vez mais pessoas e organizações no país estão a adotar tecnologias de Código Aberto e a fazer contribuições significativas para a comunidade global.
 
-Em solo português, existem inúmeros projetos de Código Aberto que utilizamos no nosso dia a dia, muitas vezes sem sequer sabermos que foram criados ou são mantidos por talentosos desenvolvedores nacionais. Para dar destaque a estas realizações, reunimos alguns desses projetos e indivíduos no site **[GitHub Portugal](githubportugal.pt)**.
+Em solo português, existem inúmeros projetos de Código Aberto que utilizamos no nosso dia a dia, muitas vezes sem sequer sabermos que foram criados ou são mantidos por talentosos desenvolvedores nacionais. Para dar destaque a estas realizações, reunimos alguns desses projetos e indivíduos no site **[GitHub Portugal](https://www.githubportugal.com/)**.
 
-No entanto, a nossa lista está em constante evolução, e sabemos que há muitos mais projetos e mantenedores talentosos em Portugal que merecem reconhecimento. Se conhece outros projetos ou mantenedores portugueses, não hesite em contribuir adicionando-os à nossa lista no ficheiro **[CONTRIBUTING.MD](https://github.com/mmroch4/githubportugal/CONTRIBUTING.md)**.
+No entanto, a nossa lista está em constante evolução, e sabemos que há muitos mais projetos e mantenedores talentosos em Portugal que merecem reconhecimento. Se conhece outros projetos ou mantenedores portugueses, não hesite em contribuir adicionando-os à nossa lista no ficheiro **[CONTRIBUTING.MD](https://github.com/GitHub-Portugal/website/blob/main/CONTRIBUTING.md)**.
 
 Para aqueles que desejam iniciar a sua jornada no mundo do Código Aberto ou mantenedores experientes em busca de maneiras de fortalecer as suas comunidades, oferecemos recursos abrangentes. Consulte o nosso Guia de Código Aberto, repleto de informações sobre como iniciar um projeto de Código Aberto, construir comunidades colaborativas, adotar melhores práticas de manutenção de projetos e muito mais.
 
