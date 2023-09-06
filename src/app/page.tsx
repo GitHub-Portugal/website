@@ -27,7 +27,7 @@ export default function Home() {
         </Link>
 
         <a
-          href="https://github.com/mmroch4/githubportugal"
+          href="https://github.com/GitHub-Portugal/website"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center justify-center gap-2 rounded border border-light-gray-3 bg-transparent px-6 py-3 text-sm font-bold sm:text-base md:text-lg"
