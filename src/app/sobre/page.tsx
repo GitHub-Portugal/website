@@ -31,7 +31,7 @@ export default function About() {
           <ul className="flex items-center justify-center gap-2">
             <li>
               <a
-                href="https://discord.gg/rzAB2xtzBc"
+                href="https://discord.gg/HQJttJmbvm"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex w-fit items-center justify-center rounded p-2 hover:bg-light-gray-1 focus:bg-light-gray-1 active:bg-light-gray-2 md:p-3"
@@ -41,7 +41,7 @@ export default function About() {
             </li>
             <li>
               <a
-                href="https://github.com/mmroch4/githubportugal"
+                href="https://github.com/GitHub-Portugal/website"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex w-fit items-center justify-center rounded p-2 hover:bg-light-gray-1 focus:bg-light-gray-1 active:bg-light-gray-2 md:p-3"
