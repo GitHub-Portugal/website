@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main className="flex flex-col items-center justify-center px-6 py-4">
       <span className="mb-3 select-none rounded-full bg-light-blue-2 px-3 py-1 font-bold  sm:mb-4">
-        em breve
+        de DEV para DEV
       </span>
 
       <h1 className="mb-2 text-center text-5xl font-black sm:mb-3 sm:text-6xl md:mb-4 md:text-7xl lg:text-8xl">
