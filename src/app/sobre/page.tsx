@@ -8,18 +8,17 @@ export const metadata: Metadata = {
   title: "Sobre",
 };
 
+const buttonClassName =
+  "flex w-fit items-center justify-center rounded p-2 hover:bg-light-gray-1 focus:bg-light-gray-1 active:bg-light-gray-2 md:p-3";
+const iconClassName = "h-5 w-5 fill-light-black md:h-6 md:w-6";
+
 export default function About() {
   return (
     <main className="m-auto max-w-lg p-4 pb-8 sm:max-w-xl sm:px-6 md:max-w-2xl lg:max-w-3xl xl:max-w-4xl 2xl:max-w-5xl">
       <nav className="mb-2 sm:mb-3 md:mb-4">
-        <Link
-          href="/"
-          className="flex w-fit items-center justify-center rounded p-2 hover:bg-light-gray-1 focus:bg-light-gray-1 active:bg-light-gray-2 md:p-3"
-        >
-          <ArrowLeftIcon
-            verticalAlign="middle"
-            className="h-5 w-5 fill-light-black md:h-6 md:w-6"
-          />
+        <Link href="/" className={buttonClassName}>
+          <ArrowLeftIcon verticalAlign="middle" className={iconClassName} />
+          <span className="sr-only">Retornar à página principal</span>
         </Link>
       </nav>
 
@@ -34,9 +33,10 @@ export default function About() {
               href="https://discord.gg/HQJttJmbvm"
               target="_blank"
               rel="noopener noreferrer"
-              className="flex w-fit items-center justify-center rounded p-2 hover:bg-light-gray-1 focus:bg-light-gray-1 active:bg-light-gray-2 md:p-3"
+              className={buttonClassName}
             >
-              <RiDiscordFill className="h-5 w-5 fill-light-black md:h-6 md:w-6" />
+              <RiDiscordFill className={iconClassName} />
+              <span className="sr-only">Juntar-se à comunidade no Discord</span>
             </a>
           </li>
           <li>
@@ -44,12 +44,13 @@ export default function About() {
               href="https://github.com/GitHub-Portugal/website"
               target="_blank"
               rel="noopener noreferrer"
-              className="flex w-fit items-center justify-center rounded p-2 hover:bg-light-gray-1 focus:bg-light-gray-1 active:bg-light-gray-2 md:p-3"
+              className={buttonClassName}
             >
               <MarkGithubIcon
                 verticalAlign="middle"
-                className="h-5 w-5 fill-light-black md:h-6 md:w-6"
+                className={iconClassName}
               />
+              <span className="sr-only">Abrir repositório no GitHub</span>
             </a>
           </li>
         </ul>
