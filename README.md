@@ -1,5 +1,7 @@
 # 🇵🇹 GitHub Portugal
 
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/cnJdppDkUp)
+
 ## 👋 Bem Vindo
 
 Bem-vindo ao GitHub Portugal, o ponto de encontro para entusiastas da programação em solo lusitano! Estamos empolgados por você se juntar à nossa comunidade. Aqui, nossa missão é apoiar, inspirar e colaborar.
